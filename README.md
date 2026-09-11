@@ -2,7 +2,7 @@
 
 # 👋 Hello, I'm 李沅泽
 
-### Communication Engineering Student · Learning Python · Interested in NLP & LLMs
+### Communication Engineering Student · Learning Python · Interested in Agentic Memory & LLM Applications
 
 [![GitHub](https://img.shields.io/badge/GitHub-yuanzeli695--byte-181717?logo=github&logoColor=white)](https://github.com/yuanzeli695-byte)
 [![Profile README](https://img.shields.io/badge/Profile-README-0A66C2?logo=readme&logoColor=white)](https://github.com/yuanzeli695-byte/yuanzeli695-byte)
@@ -15,7 +15,7 @@
 
 通信工程专业学生，目前从 Python 基础开始学习，正在练习函数、基础语法与程序思维。
 
-对数据处理、自然语言处理和大语言模型感兴趣，计划在 Python 基础扎实后逐步深入。
+对 Agentic Memory（智能体长期记忆）、对话系统与 LLM 应用感兴趣，计划在 Python 基础扎实后逐步深入。
 
 <details>
 <summary><strong>🧭 学习计划与兴趣方向（点击展开）</strong></summary>
@@ -26,17 +26,17 @@
 | 学习计划 | 数据结构、文件处理与基础数据分析 |
 | 学习计划 | PyTorch 与深度学习基础 |
 | 学习计划 | Transformer 与自然语言处理基础 |
-| 感兴趣方向 | 对话系统、低资源 NLP、对话评估与 LLM 适配 |
+| 感兴趣方向 | Agentic Memory（智能体长期记忆）、对话系统、LLM 应用与上下文管理 |
 
 </details>
 
 <details>
 <summary><strong>🔬 关注的研究方向（点击展开）</strong></summary>
 
-- Dialogue systems
-- Low-resource natural language processing
-- Dialogue evaluation
-- Large language models
+- Agentic Memory（智能体长期记忆）：围绕历史信息的保存、检索与利用
+- 对话系统与上下文交互
+- LLM 应用
+- 检索与记忆机制
 
 这些方向是我接下来的学习目标；我会通过阅读材料、复现代码和完成小项目逐步深入。
 
@@ -94,7 +94,7 @@
 
 ### 📚 学习记录
 
-持续记录 Python 基础练习、项目文档，以及后续学习材料。
+持续记录 Python 基础练习、项目文档，以及 Agentic Memory 等方向的后续学习材料。
 
 </td>
 </tr>
