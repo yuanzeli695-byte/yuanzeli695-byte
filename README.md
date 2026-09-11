@@ -114,7 +114,6 @@
 ## 📈 GitHub 活动
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yuanzeli695-byte&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats" />
   <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yuanzeli695-byte&theme=github_dark" alt="Top languages by repository" />
   <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yuanzeli695-byte&theme=github_dark" alt="Top languages by commit" />
 </p>
