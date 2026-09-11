@@ -42,14 +42,36 @@
 
 </details>
 
-## 🧰 当前学习内容
+## 🧰 学习状态与工具环境
+
+### 正在学习
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-learning-3776AB?logo=python&logoColor=white" alt="Python learning" />
 </p>
 
 <p align="center">
-  <sub>目前正式学习的编程语言只有 Python；其他技术方向会在开始系统学习后再补充。</sub>
+  <sub>目前正在系统学习的编程语言只有 Python；其他技术方向会在开始系统学习后再补充。</sub>
+</p>
+
+### 本机已配置的开发工具与运行环境
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=white" alt="Anaconda" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white" alt="PyCharm" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub Desktop and CLI" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white" alt="PowerShell" />
+  <br />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker Desktop" />
+  <img src="https://img.shields.io/badge/WSL-0078D4?logo=linux&logoColor=white" alt="Windows Subsystem for Linux" />
+  <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white" alt="Rust toolchain" />
+</p>
+
+<p align="center">
+  <sub>以上是本机已安装或已配置、用于学习与项目运行的工具环境；不表示已经熟练掌握对应语言、框架或工程能力。目前的系统学习仍聚焦 Python。</sub>
 </p>
 
 ## 🚀 项目与学习记录
@@ -93,6 +115,12 @@
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=yuanzeli695-byte&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yuanzeli695-byte&theme=github_dark" alt="Top languages by repository" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yuanzeli695-byte&theme=github_dark" alt="Top languages by commit" />
+</p>
+
+<p align="center">
+  <sub>语言统计由 GitHub 公开仓库与提交记录自动生成，展示项目活动分布，不等同于技能掌握程度。</sub>
 </p>
 
 ## 🌱 目前在做
